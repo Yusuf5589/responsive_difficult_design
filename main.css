@@ -1,0 +1,1000 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Teko:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Teko:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Teko:wght@500&display=swap');
+
+body{
+    background-color: #EDF0F2;
+}
+
+.text-1{
+    font-size: 17px;
+    color: black;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+
+
+
+.icon-1{
+    font-size: 28px;
+    color: black;
+}
+
+
+.icon-2{
+    font-size: 20px;
+    color: white;
+    border-radius: 50%;
+}
+
+.background-color-1{
+    background-color: #E4003B;
+}
+
+
+.background-color-2{
+    background-color: #EDF0F2;
+}
+
+.color-1{
+    color: #E4003B;
+}
+
+.bg-none{
+    background-color: none;
+    background: none;
+}
+
+
+.h-80{
+    height: 80%;
+}
+
+
+
+
+.footer-text-1{
+    color: #E4003B;
+    font-size: 36px;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+  
+
+/*? PHONE */
+
+@media only screen and (max-width: 768px){
+    .text-2{
+        font-size: 12px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        transform: rotate(270deg);
+    }
+    .text-3{
+        font-size: 70px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        margin: 0px;
+        padding: 0px;
+        line-height: 0.75;
+    }
+    .icon-3{
+        font-size: 8px;
+        color: black;
+    }
+    .text-4{
+        font-size: 12px;
+        color: black;
+    }
+    .text-5{
+        font-size: 40px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-6{
+        color: #E4003B;
+        font-size: 14px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.75;
+    }
+    
+    .text-7{
+        color: black;
+        font-size: 20px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.85;
+    }
+    
+    .text-8{
+        color: black;
+        font-size: 12px;
+    }
+    
+    .text-9{
+        color: black;
+        font-size: 13px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+    .text-10{
+        font-size: 40px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-11{
+        font-size: 50px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-12{
+        font-size: 30px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.95;
+    }
+
+    .text-13{
+        font-size: 14px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-14{
+        font-size: 100px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+        line-height: 0.7;
+        z-index: -1;
+    }
+
+    .text-15{
+        font-size: 50px;
+        color: #E4003B;
+        line-height: 0.7;
+        z-index: -1;
+        transform: rotate(-15deg);
+    }
+
+    .text-16{
+        font-size: 100px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.9;
+    }
+    .text-17{
+        font-size: 30px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.9;
+    }
+
+    .text-18{
+        font-size: 30px;
+        color: white;
+        transform: rotate(270deg);
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+
+    .text-19{
+        font-size: 25px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-20{
+        font-size: 14px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.95;
+    }
+
+    .text-21{
+        font-size: 30px;
+        color: #E4003B;
+        transform: rotate(270deg);
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+    
+    .text-22{
+        font-size: 30px;
+        color: black;
+        transform: rotate(270deg);
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        border-bottom: 1px solid #E4003B;
+        transform: rotate(0deg);
+    }
+
+    .text-23{
+        color: black;
+        font-size: 8px;
+    }
+
+    .text-24{
+        font-size: 20px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.0;
+    }
+
+    .text-25{
+        font-size: 36px;
+        color: white;
+        line-height: 0.95;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-26{
+        font-size: 16px;
+        color: white;
+        line-height: 0.95;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-27{
+        font-size: 25px;
+        color: #E4003B;
+        transform: rotate(-15deg);
+        margin-bottom: 70px;
+    }
+    
+    .number-1{
+        font-size: 25px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        font-weight: bold;
+        color: black;
+        border-bottom: 1px solid #E4003B;
+        display: flex;
+    }
+
+    .number-2{
+        font-size: 12px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        color: black;
+    }
+
+    .number-3{
+        font-size: 12px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        color: black;
+    }
+
+    .icon-2{
+        font-size: 12px;
+        color: white;
+    }
+
+    .icon-4{
+        font-size: 70px;
+        color: rgb(255, 255, 255);
+        z-index: -1;
+    }
+    .icon-5{
+        color: #E4003B;
+        font-size: 20px;
+    }
+
+    .icon-6{
+        font-size: 80px;
+        color: rgb(255, 255, 255);
+    }
+
+    .img-man{
+        background-image: url(img/img\ man.png);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-position: right center;
+        background-repeat: no-repeat;
+    }
+
+    .img-survive{
+        background-image: url(img/img-survive.png);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .img-tent{
+        background-image: url(img/img_tent.png);
+        width: 100%;
+        height: 370px;
+        background-size: cover;
+        background-position: bottom left;
+        background-repeat: no-repeat;
+    }
+
+
+    .img-tea{
+        background-image: url(img/img_tea.png);
+        width: 100%;
+        height: 370px;
+        background-size: cover;
+        background-position: bottom left;
+        background-repeat: no-repeat;
+    }
+
+    .img-container{
+        border: #E4003B solid 3px;
+    }
+
+    .right-space{
+        margin-right: 50px;
+    }
+
+    .right-up-space{
+        margin: 130px 0 0 120px;
+    }
+
+    .w-80{
+        width: 80%;
+    }
+    
+    .footer-bg-image{
+        background-image: url(img/img_footer.png);
+        background-position: center  center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+/*? TABLET */
+@media only screen and (min-width: 768px) and (max-width: 1023px){ 
+    .text-2{
+        font-size: 16px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        transform: rotate(270deg);
+    }  
+    .text-3{
+        font-size: 70px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        margin: 0px;
+        padding: 0px;
+        line-height: 0.75;
+    }
+    .icon-3{
+        font-size: 18px;
+        color: black;
+    }
+    .text-4{
+        font-size: 14px;
+        color: black;
+    }
+    .text-5{
+        font-size: 60px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-6{
+        color: #E4003B;
+        font-size: 14px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+    
+    .text-7{
+        color: black;
+        font-size: 20px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+    
+    .text-8{
+        color: black;
+        font-size: 12px;
+    }
+    
+    .text-9{
+        color: black;
+        font-size: 13px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+    .text-10{
+        font-size: 60px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-11{
+        font-size: 50px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-12{
+        font-size: 30px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.95;
+    }
+
+    .text-13{
+        font-size: 14px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-14{
+        font-size: 174px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+        line-height: 0.7;
+        z-index: -1;
+    }
+
+    .text-15{
+        font-size: 96px;
+        color: #E4003B;
+        line-height: 0.7;
+        z-index: -1;
+        transform: rotate(-15deg);
+    }
+
+    .text-16{
+        font-size: 200px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.9;
+    }
+    .text-17{
+        font-size: 50px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.9;
+    }
+
+    .text-18{
+        font-size: 60px;
+        color: white;
+        transform: rotate(270deg);
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+    .text-19{
+        font-size: 40px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-20{
+        font-size: 25px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.95;
+    }
+
+    .text-21{
+        font-size: 100px;
+        color: #E4003B;
+        transform: rotate(270deg);
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+    .text-22{
+        font-size: 60px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        border-bottom: 1px solid #E4003B;
+        line-height: 1.2;
+        transform: rotate(0deg);
+    }
+
+    .text-23{
+        color: black;
+        font-size: 14px;
+    }
+
+    .text-24{
+        font-size: 40px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.8;
+    }
+
+    .text-25{
+        font-size: 36px;
+        color: white;
+        line-height: 0.95;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-26{
+        font-size: 16px;
+        color: white;
+        line-height: 0.95;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-27{
+        font-size: 40px;
+        color: #E4003B;
+        transform: rotate(-15deg);
+        margin-bottom: 100px;
+    }
+
+    .number-1{
+        font-size: 60px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        font-weight: bold;
+        color: black;
+        border-bottom: 1px solid #E4003B;
+        display: flex;
+    }
+
+    .number-2{
+        font-size: 17px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        color: black;
+    }
+
+    .number-3{
+        font-size: 17px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        color: black;
+    }
+
+    .icon-2{
+        font-size: 22px;
+        color: white;
+    }
+    .icon-4{
+        font-size: 120px;
+        color: rgb(255, 255, 255);
+        z-index: -1;
+    }
+    .icon-5{
+        color: #E4003B;
+        font-size: 30px;
+    }
+
+    .icon-6{
+        font-size: 150px;
+        color: rgb(255, 255, 255);
+    }
+
+    .img-man{
+        background-image: url(img/img\ man.png);
+        width: 100%;
+        height: 700px;
+        background-size: cover;
+        background-position: right center;
+        background-repeat: no-repeat;
+    }
+
+    .img-survive{
+        background-image: url(img/img-survive.png);
+        width: 100%;
+        height: 600px;
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .img-tent{
+        background-image: url(img/img_tent.png);
+        width: 75%;
+        height: 370px;
+        background-size: cover;
+        background-position: bottom left;
+        background-repeat: no-repeat;
+    }
+
+    .img-tea{
+        background-image: url(img/img_tea.png);
+        width: 75%;
+        height: 370px;
+        background-size: cover;
+        background-position: bottom left;
+        background-repeat: no-repeat;
+    }
+
+    .img-container{
+        border: #E4003B solid 30px;
+    }
+
+    .right-space{
+        margin-right: 100px;
+    }
+
+    .right-up-space{
+        margin: 200px 0 0 120px;
+    }
+    
+    .w-80{
+        width: 80%;
+    }
+
+    .footer-bg-image{
+        background-image: url(img/img_footer.png);
+        background-position: center  center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+
+/*? PC */
+@media only screen and (min-width:1024px){
+    .text-2{
+        font-size: 42px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        transform: rotate(270deg);
+        display: flex;
+    }
+    .text-3{
+        font-size: 170px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        margin: 0px;
+        padding: 0px;
+        line-height: 0.75;
+    }
+    .icon-3{
+        font-size: 24px;
+        color: black;
+    }
+    .text-4{
+        font-size: 14px;
+        color: black;
+    }
+    .text-5{
+        font-size: 60px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-6{
+        color: #E4003B;
+        font-size: 17px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+    
+    .text-7{
+        color: black;
+        font-size: 36px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+    
+    .text-8{
+        color: black;
+        font-size: 14px;
+    }
+    
+    .text-9{
+        color: black;
+        font-size: 17px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+    .text-10{
+        font-size: 60px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-11{
+        font-size: 60px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-12{
+        font-size: 36px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.95;
+    }
+
+    .text-13{
+        font-size: 14px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-14{
+        font-size: 174px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+        line-height: 0.7;
+        z-index: -1;
+    }
+
+    .text-15{
+        font-size: 96px;
+        color: #E4003B;
+        line-height: 0.7;
+        z-index: -1;
+        transform: rotate(-15deg);
+    }
+    .text-16{
+        font-size: 280px;
+        color: #E4003B;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.9;
+    }
+    .text-17{
+        font-size: 60px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.9;
+    }
+
+    .text-18{
+        font-size: 130px;
+        color: white;
+        transform: rotate(270deg);
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+    .text-19{
+        font-size: 60px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-20{
+        font-size: 36px;
+        color: white;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        line-height: 0.95;
+    }
+
+    .text-21{
+        font-size: 174px;
+        color: #E4003B;
+        transform: rotate(270deg);
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        text-transform: uppercase;
+    }
+
+    .text-22{
+        font-size: 60px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        border-bottom: 1px solid #E4003B;
+        line-height: 1.2;
+    }
+
+    .text-23{
+        color: black;
+        font-size: 14px;
+    }
+
+    .text-24{
+        font-size: 60px;
+        color: black;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    
+    .text-25{
+        font-size: 36px;
+        color: white;
+        line-height: 0.95;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-26{
+        font-size: 16px;
+        color: white;
+        line-height: 0.95;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+    }
+
+    .text-27{
+        font-size: 55px;
+        color: #E4003B;
+        transform: rotate(-15deg);
+        margin-bottom: 100px;
+    }
+
+    .number-1{
+        font-size: 60px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        font-weight: bold;
+        color: black;
+        border-bottom: 1px solid #E4003B;
+        display: flex;
+    }
+
+    .number-2{
+        font-size: 17px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        color: black;
+    }
+
+    .number-3{
+        font-size: 17px;
+        font-family: 'Manrope', sans-serif;
+        font-family: 'Teko', sans-serif;
+        color: black;
+    }
+
+    .icon-2{
+        font-size: 28px;
+        color: white;
+    }
+    .icon-4{
+        font-size: 220px;
+        color: rgb(255, 255, 255);
+        z-index: -1;
+    }
+    .icon-5{
+        color: #E4003B;
+        font-size: 55px;
+    }
+
+    .icon-6{
+        font-size: 220px;
+        color: rgb(255, 255, 255);
+    }
+
+    .img-man{
+        background-image: url(img/img\ man.png);
+        width: 100%;
+        height: 700px;
+        background-size: cover;
+        background-position: right center;
+        background-repeat: no-repeat;
+    }
+
+    .img-survive{
+        background-image: url(img/img-survive.png);
+        width: 100%;
+        height: 600px;
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .img-tent{
+        background-image: url(img/img_tent.png);
+        width: 75%;
+        height: 370px;
+        background-size: cover;
+        background-position: bottom left;
+        background-repeat: no-repeat;
+    }
+
+    .img-tea{
+        background-image: url(img/img_tea.png);
+        width: 75%;
+        height: 370px;
+        background-size: cover;
+        background-position: bottom left;
+        background-repeat: no-repeat;
+    }
+
+    .img-container{
+        border: #E4003B solid 30px;
+    }
+
+    .right-space{
+        margin-right: 150px;
+    }
+
+    .right-up-space{
+        margin: 200px 0 0 120px;
+    }
+
+
+    .w-80{
+        width: 100%;
+    }
+
+    .footer-bg-image{
+        background-image: url(img/img_footer.png);
+        background-position: center  top -250px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+/* 1000 satır yapalım bari
+Y
+U
+S
+U
+F
+K
+A
+P
+K
+İ
+N
+E
+R
+K
+L
+E
+*/
